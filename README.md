@@ -6,7 +6,7 @@ domains configured on a nginx webserver.
 
 <h2>Download/Installation</h2>
 ```
-wget https://raw.githubusercontent.com/fooltruth/nginxctl/master/nginxCtl.py -O nginxctl.py 
+wget https://raw.githubusercontent.com/rackerlabs/nginxctl/master/nginxctl.py -O nginxctl.py 
 python nginxctl.py
 ```
 
